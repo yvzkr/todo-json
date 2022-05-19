@@ -2,18 +2,18 @@
   "todos": [
     {
       "id": 1,
-      "title": "Alışveriş",
-      "remark": "Bret"
+      "title": "Work",
+      "remark": "Work about bills"
     },
     {
       "id": 2,
-      "title": "Spor",
-      "remark": "Bret"
+      "title": "Play Soccer",
+      "remark": "Play with friend"
     },    
     {
       "id": 3,
-      "title": "Fatura",
-      "remark": "mart ayı fatura"
+      "title": "Cook",
+      "remark": "Today you cook"
     }  
   ]
 }
