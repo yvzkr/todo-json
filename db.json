@@ -24,16 +24,6 @@
       "title": "eve.holt@reqres.in",
       "remark": "Eve"
     },
-    {
-      "id": 5,
-      "title": "charles.morris@reqres.in",
-      "remark": "Charles"
-    },
-    {
-      "id": 6,
-      "title": "tracey.ramos@reqres.in",
-      "remark": "Tracey"
-    }
   ],
   "support": {
     "url": "https://reqres.in/#support-heading",
