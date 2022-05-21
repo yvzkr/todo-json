@@ -4,25 +4,25 @@
       "id": 1,
       "title": "Pay bill",
       "remark": "You have a many bill.",
-      "done": false
+      "status": false
     },
     {
       "id": 2,
       "title": "Play Soccer",
       "remark": "Play with friend.",
-      "done": false
+      "status": false
     },    
     {
       "id": 3,
       "title": "Cook",
       "remark": "Today you have to cook",
-      "done": true
+      "status": true
     },
     {
       "id": 4,
       "title": "Buy umberalla",
       "remark": "Buy umberalla for Jack",
-      "done": true
+      "status": true
     }  
   ]
 }
