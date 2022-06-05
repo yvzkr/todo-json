@@ -1,6 +1,7 @@
 {
     "Todo": {
-      "title": { "string": {} }
+      "title": { "string": {} },
+      "status": { "boolean": {} }
       
     }
   }
